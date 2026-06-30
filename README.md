@@ -1,7 +1,5 @@
 # LFPE-RFF: Label-Free Performance Estimation for RF Fingerprinting
 
-# Submit to ICCC
-
 This repository provides the implementation of **Label-Free Performance Estimation for RF Fingerprinting Under Varying Channels**. The goal is to estimate the target-domain identification accuracy of a deployed RF fingerprinting model without using target-domain labels.
 
 The method builds an energy-accuracy mapping from augmented source data and then predicts the accuracy of unlabeled target data using only model outputs.
@@ -327,7 +325,7 @@ If you use this code in your research, please cite:
 @inproceedings{xu2025lfpe_rff,
   title     = {Label-Free Performance Estimation for RF Fingerprinting Under Varying Channels},
   author    = {Xu, Qichen and Da, Xinyang and Wang, Yu},
-  booktitle = {To appear},
+  booktitle = {IEEE/CIC International Conference on Communications in China (ICCC)},
   year      = {2026}
 }
 ```
